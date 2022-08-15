@@ -2,7 +2,7 @@
 
 ## packages
 
-zhlynn/zsign: Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( macOS, Linux , Windows ), more features. https://github.com/zhlynn/zsign
+zsign https://github.com/zhlynn/zsign
 
 
 ## ref
