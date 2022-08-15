@@ -4,6 +4,10 @@
 
 zsign https://github.com/zhlynn/zsign
 
+```
+brew install tknr/tap/zsign
+```
+
 
 ## ref
 
