@@ -7,7 +7,7 @@ class Zsign < Formula
   url "https://github.com/zhlynn/zsign/archive/master.tar.gz"
   head "https://github.com/zhlynn/zsign.git"
   version "master"
-  sha256 "bd2089d838a335642c8ee6e34fce87d8a1fc385c00912fef6c1f8cd63b5e1775"
+  sha256 "8543fbb22d29eaff72280cd201f66f1d65fd47caf12c0076bb4c312fe5ef0a53"
   license "BSD-3-Clause"
 
   depends_on "openssl"
