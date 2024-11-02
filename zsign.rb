@@ -18,7 +18,7 @@ class Zsign < Formula
     # https://rubydoc.brew.sh/Formula.html#std_configure_args-instance_method
     #system "./configure", *std_configure_args, "--disable-silent-rules"
     # system "cmake", "-S", ".", "-B", "build", *std_cmake_args
-    system "sudo","bash","-x","INSTALL.sh"
+    system "sudo","bash","-eux","INSTALL.sh"
     system "sudo","chmod","-R","a+rwx",buildpath
     bin.install buildpath/"build/zsign"
   end
